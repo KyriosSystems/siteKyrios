@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Build
+dist/
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Cache
+.npm/
+.cache/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env

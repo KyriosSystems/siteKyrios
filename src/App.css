@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: white;
+}
+
+.header nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.hero {
+  text-align: center;
+  padding: 50px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  background: linear-gradient(to right, #007bff, #0056b3);
+  color: white;
+}
+
+.about-content {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  background-color: gray;
+}
